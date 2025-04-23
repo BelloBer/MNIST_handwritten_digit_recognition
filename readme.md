@@ -4,7 +4,7 @@
 # MNIST Handwritten Digit Recognition
 
 A convolutional neural network (CNN) implementation for recognizing handwritten digits from the MNIST dataset, achieving over 99% accuracy.
-
+The MNIST database is a dataset of handwritten digits containing 60,000 training samples, and 10 000 testing samples(digit images). Each image is (28x28) pixels, each containing an integer value 0 - 255 with its grayscale value.
 ## Project Structure
 
 ```
