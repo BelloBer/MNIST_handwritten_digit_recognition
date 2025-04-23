@@ -94,14 +94,14 @@ Epoch 2/5
 
 Test accuracy: 99.12%
 
-Model saved as mnist_model.h5
+Model saved as mnist_model.keras
 Done!
 ```
 
 ## Generated Files
 
 After running the program, you'll find these additional files:
-- `mnist_model.h5` - Trained model weights
+- `mnist_model.keras` - Trained model weights
 - `training_history.png` - Accuracy and loss plots
 - `sample_predictions.png` - 25 test samples with predictions
 
