@@ -1,4 +1,4 @@
-Here's a comprehensive `README.md` file for your project that explains how to set up and run the digit recognition system:
+
 
 ```markdown
 # MNIST Handwritten Digit Recognition
@@ -7,6 +7,7 @@ A convolutional neural network (CNN) implementation for recognizing handwritten 
 
 ## Project Structure
 
+```
 ```
 MNIST_handwritten_digit_recognition/
 ├── digit_recognizer.py       # Main Python script
